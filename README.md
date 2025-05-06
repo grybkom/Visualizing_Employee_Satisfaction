@@ -18,3 +18,7 @@ The Employee Satisfaction Survey dataset contains information regarding employee
 
 ![HistSatSalary](https://github.com/user-attachments/assets/23a4b1c7-b61d-481d-8999-02b54da0a401)
 ![FinalSatByProjects](https://github.com/user-attachments/assets/55e8423d-2a6b-4980-a983-22dbc9beafb4)
+
+### Author
+
+Michael Grybko - GitHub username: grybkom
